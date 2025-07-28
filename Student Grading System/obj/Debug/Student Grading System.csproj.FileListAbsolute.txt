@@ -1,0 +1,76 @@
+C:\Users\Mark\Desktop\Sttudent Grading System\bin\Debug\Student Grading System.exe.config
+C:\Users\Mark\Desktop\Sttudent Grading System\bin\Debug\Student Grading System.exe
+C:\Users\Mark\Desktop\Sttudent Grading System\bin\Debug\Student Grading System.pdb
+C:\Users\Mark\Desktop\Sttudent Grading System\obj\Debug\Univesity_Grade_Calculator.Form1.resources
+C:\Users\Mark\Desktop\Sttudent Grading System\obj\Debug\Student_Grading_System.Properties.Resources.resources
+C:\Users\Mark\Desktop\Sttudent Grading System\obj\Debug\Student Grading System.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\Sttudent Grading System\obj\Debug\Student Grading System.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Sttudent Grading System\obj\Debug\Student Grading System.exe
+C:\Users\Mark\Desktop\Sttudent Grading System\obj\Debug\Student Grading System.pdb
+C:\Users\Mark\Desktop\Sttudent Grading System\obj\Debug\Student Grading System.csprojAssemblyReference.cache
+D:\Student Grading System in C#\bin\Debug\Student Grading System.exe.config
+D:\Student Grading System in C#\bin\Debug\Student Grading System.exe
+D:\Student Grading System in C#\bin\Debug\Student Grading System.pdb
+D:\Student Grading System in C#\obj\Debug\Student Grading System.csproj.AssemblyReference.cache
+D:\Student Grading System in C#\obj\Debug\Univesity_Grade_Calculator.Form1.resources
+D:\Student Grading System in C#\obj\Debug\Student_Grading_System.Properties.Resources.resources
+D:\Student Grading System in C#\obj\Debug\Student Grading System.csproj.GenerateResource.cache
+D:\Student Grading System in C#\obj\Debug\Student Grading System.csproj.CoreCompileInputs.cache
+D:\Student Grading System in C#\obj\Debug\Student Grading System.exe
+D:\Student Grading System in C#\obj\Debug\Student Grading System.pdb
+E:\Student Grading System in C#\bin\Debug\Student Grading System.exe.config
+E:\Student Grading System in C#\bin\Debug\Student Grading System.exe
+E:\Student Grading System in C#\bin\Debug\Student Grading System.pdb
+E:\Student Grading System in C#\obj\Debug\Student Grading System.csproj.AssemblyReference.cache
+E:\Student Grading System in C#\obj\Debug\Univesity_Grade_Calculator.Form1.resources
+E:\Student Grading System in C#\obj\Debug\Student_Grading_System.Properties.Resources.resources
+E:\Student Grading System in C#\obj\Debug\Student Grading System.csproj.GenerateResource.cache
+E:\Student Grading System in C#\obj\Debug\Student Grading System.csproj.CoreCompileInputs.cache
+E:\Student Grading System in C#\obj\Debug\Student Grading System.exe
+E:\Student Grading System in C#\obj\Debug\Student Grading System.pdb
+E:\Student Grading System in C#\obj\Debug\Student_Grading_System.LoginForm.resources
+C:\Users\_MIR_\Desktop\Student Grading System in C#\bin\Debug\Student Grading System.exe.config
+C:\Users\_MIR_\Desktop\Student Grading System in C#\bin\Debug\Student Grading System.exe
+C:\Users\_MIR_\Desktop\Student Grading System in C#\bin\Debug\Student Grading System.pdb
+C:\Users\_MIR_\Desktop\Student Grading System in C#\obj\Debug\Student Grading System.csproj.AssemblyReference.cache
+C:\Users\_MIR_\Desktop\Student Grading System in C#\obj\Debug\Univesity_Grade_Calculator.Form1.resources
+C:\Users\_MIR_\Desktop\Student Grading System in C#\obj\Debug\Student_Grading_System.LoginForm.resources
+C:\Users\_MIR_\Desktop\Student Grading System in C#\obj\Debug\Student_Grading_System.Properties.Resources.resources
+C:\Users\_MIR_\Desktop\Student Grading System in C#\obj\Debug\Student Grading System.csproj.GenerateResource.cache
+C:\Users\_MIR_\Desktop\Student Grading System in C#\obj\Debug\Student Grading System.csproj.CoreCompileInputs.cache
+C:\Users\_MIR_\Desktop\Student Grading System in C#\obj\Debug\Student Grading System.exe
+C:\Users\_MIR_\Desktop\Student Grading System in C#\obj\Debug\Student Grading System.pdb
+F:\Student Grading System\obj\Debug\Student Grading System.csproj.AssemblyReference.cache
+F:\Student Grading System\obj\Debug\Univesity_Grade_Calculator.Form1.resources
+F:\Student Grading System\obj\Debug\Student_Grading_System.LoginForm.resources
+F:\Student Grading System\obj\Debug\Student_Grading_System.Properties.Resources.resources
+F:\Student Grading System\obj\Debug\Student Grading System.csproj.GenerateResource.cache
+F:\Student Grading System\obj\Debug\Student Grading System.csproj.CoreCompileInputs.cache
+F:\Student Grading System\obj\Debug\Student Grading System.exe
+F:\Student Grading System\obj\Debug\Student Grading System.pdb
+F:\Student Grading System\bin\Debug\Student Grading System.exe.config
+F:\Student Grading System\bin\Debug\Student Grading System.exe
+F:\Student Grading System\bin\Debug\Student Grading System.pdb
+E:\Student Grading System\obj\Debug\Student Grading System.csproj.AssemblyReference.cache
+E:\Student Grading System\obj\Debug\Student Grading System.csproj.SuggestedBindingRedirects.cache
+E:\Student Grading System\obj\Debug\Univesity_Grade_Calculator.Form1.resources
+E:\Student Grading System\obj\Debug\Student_Grading_System.LoginForm.resources
+E:\Student Grading System\obj\Debug\Student_Grading_System.Properties.Resources.resources
+E:\Student Grading System\obj\Debug\Student Grading System.csproj.GenerateResource.cache
+E:\Student Grading System\obj\Debug\Student Grading System.csproj.CoreCompileInputs.cache
+E:\Student Grading System\obj\Debug\Student Grading System.exe
+E:\Student Grading System\obj\Debug\Student Grading System.pdb
+E:\Student Grading System\bin\Debug\Student Grading System.exe.config
+E:\Student Grading System\bin\Debug\Student Grading System.exe
+E:\Student Grading System\bin\Debug\Student Grading System.pdb
+C:\Users\HP\Desktop\Student Grading System\bin\Debug\Student Grading System.exe.config
+C:\Users\HP\Desktop\Student Grading System\bin\Debug\Student Grading System.exe
+C:\Users\HP\Desktop\Student Grading System\bin\Debug\Student Grading System.pdb
+C:\Users\HP\Desktop\Student Grading System\obj\Debug\Student Grading System.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Student Grading System\obj\Debug\Univesity_Grade_Calculator.Form1.resources
+C:\Users\HP\Desktop\Student Grading System\obj\Debug\Student_Grading_System.LoginForm.resources
+C:\Users\HP\Desktop\Student Grading System\obj\Debug\Student_Grading_System.Properties.Resources.resources
+C:\Users\HP\Desktop\Student Grading System\obj\Debug\Student Grading System.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Student Grading System\obj\Debug\Student Grading System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Student Grading System\obj\Debug\Student Grading System.exe
+C:\Users\HP\Desktop\Student Grading System\obj\Debug\Student Grading System.pdb
